@@ -16,10 +16,10 @@
 ![Front-end](https://go-skill-icons.vercel.app/api/icons?i=html,css,js)
 
 #### Back-end
-![Back-end](https://go-skill-icons.vercel.app/api/icons?i=flask,fastapi)
+![Back-end](https://go-skill-icons.vercel.app/api/icons?i=flask)
 
 #### AI
-![AI](https://go-skill-icons.vercel.app/api/icons?i=opencv,)
+![AI](https://go-skill-icons.vercel.app/api/icons?i=fastapi,opencv)
 
 #### Infra
 ![Infra](https://go-skill-icons.vercel.app/api/icons?i=aws,terraform,docker,githubactions,grafana)
