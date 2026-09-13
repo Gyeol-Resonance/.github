@@ -1,7 +1,7 @@
 # 공명
 > 당신의 상황에서 시작되는 음악 추천의 패러다임
 
-<img width="7680" height="4320" alt="Image" src="https://github.com/user-attachments/assets/a437952a-87a1-4405-a782-d4320bffdd18" />
+<img width="7680" height="4320" alt="Image" src="https://github.com/user-attachments/assets/3263de45-8c9e-4fdc-903f-2a1802647f0a" />
 
 ---
 ## 프로젝트 소개
